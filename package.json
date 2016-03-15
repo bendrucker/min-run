@@ -1,7 +1,7 @@
 {
   "name": "min-run",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Wrap an async function to run for at least n milliseconds",
   "license": "MIT",
   "repository": "bendrucker/min-run",
