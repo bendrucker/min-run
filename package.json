@@ -1,0 +1,34 @@
+{
+  "name": "min-run",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Wrap an async function to run for at least n milliseconds",
+  "license": "MIT",
+  "repository": "bendrucker/min-run",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "min",
+    "minimum",
+    "async",
+    "run",
+    "time"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "to-array": "~0.1.4"
+  }
+}
