@@ -1,4 +1,4 @@
-# min-run [![Build Status](https://travis-ci.org/bendrucker/min-run.svg?branch=master)](https://travis-ci.org/bendrucker/min-run)
+# min-run [![Build Status](https://travis-ci.org/bendrucker/min-run.svg?branch=master)](https://travis-ci.org/bendrucker/min-run) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/min-run.svg)](https://greenkeeper.io/)
 
 > Wrap an async function to run for at least n milliseconds
 
